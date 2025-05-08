@@ -31,11 +31,11 @@
 1. **Short-term Goals** (Next 1-2 years):
     
     - Master JavaScript and Front-End Frameworks (React/Angular):
-Rationale: As I continue to build my web development skills, mastering JavaScript and popular front-end frameworks like React or Angular is crucial for creating interactive, dynamic web applications. This will allow me to take on more complex projects and be competitive in the job market.
+As I continue to build my web development skills, mastering JavaScript and popular front-end frameworks like React or Angular is crucial for creating interactive, dynamic web applications. This will allow me to take on more complex projects and be competitive in the job market.
     - Begin Learning Cybersecurity Basics:
-Rationale: Cybersecurity is an area that has caught my interest, and I see the value in integrating it with my web development skills. Understanding basic concepts such as data protection, encryption, and ethical hacking will help me build secure applications.
+Cybersecurity is an area that has caught my interest, and I see the value in integrating it with my web development skills. Understanding basic concepts such as data protection, encryption, and ethical hacking will help me build secure applications.
     - Build a Full-Stack Web Application (Personal Project):
-Rationale: Developing a full-stack application will give me practical experience in both front-end and back-end technologies, bridging the gap between my current skills and my goal to build mobile apps. This project will also serve as a great portfolio piece.
+Developing a full-stack application will give me practical experience in both front-end and back-end technologies, bridging the gap between my current skills and my goal to build mobile apps. This project will also serve as a great portfolio piece.
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Become a Full-Stack Developer with Cybersecurity Expertise:
